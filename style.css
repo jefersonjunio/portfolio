@@ -120,6 +120,7 @@ section div a {
     border: none;   
     border-radius: 25px;
     cursor: pointer;
+    text-decoration: none;
 }
 
 section div a:hover {  
