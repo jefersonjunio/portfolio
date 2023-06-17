@@ -12,6 +12,7 @@
     width: 100%; 
     background-size: cover;
     background-position: center;
+    background-color: #191919;
     background-image: url(/img/background_1.jpg);
 }
 
